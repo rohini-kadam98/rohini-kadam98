@@ -6,15 +6,6 @@
 
 Skills: Excel / SQL / Power BI / Python / Tableau
 
-- 🔭 I’m currently working on this page. 
-### Hi there 👋, Rohini Kadam
-#### Aspiring Data Analyst
-![Aspiring Data Analyst](https://www.canva.com/design/DAGdIZfJVSA/PguwkqBrVD_DeSy0PfcIEw/edit)
-
-💻 I am Rohini Kadam, an aspiring data analyst passionate about transforming raw data into meaningful insights. 📊 Currently, I am enhancing my skills in data analysis, visualization, and analytics tools to build a successful career in this field.
-
-Skills: Excel / SQL / Power BI / Python / Tableau
-
 - 🔭 I’m currently working on Internship Project 
 
 
