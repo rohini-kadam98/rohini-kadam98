@@ -13,8 +13,6 @@ Skills: Excel / SQL / Power BI / Python / Tableau
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kadam-rohini98?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
-
 
 
 
