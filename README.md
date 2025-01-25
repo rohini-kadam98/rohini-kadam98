@@ -1,5 +1,5 @@
 
-![An Aspiring Data Analyst](https://github.com/rohini-kadam98/rohini-kadam98/blob/main/Blue%20Data%20Banner%20Image.png)
+![An Aspiring Data Analyst](https://github.com/rohini-kadam98/rohini-kadam98/blob/main/_banner%20image.png)
 
 ### Hi 👋, I'm Rohini Kadam
 
