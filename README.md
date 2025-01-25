@@ -1,6 +1,6 @@
-(https://github.com/rohini-kadam98/rohini-kadam98/blob/main/Data%20Analyst%20Banner.png)
+(https://github.com/rohini-kadam98/rohini-kadam98/blob/main/Blue%20Data%20Banner%20Image.png)
 
-### Hi there 👋, Rohini Kadam
+### Hi 👋, I'm Rohini Kadam
 #### Aspiring Data Analyst
 
 💻 I am Rohini Kadam, an aspiring data analyst passionate about transforming raw data into meaningful insights. 📊 Currently, I am enhancing my skills in data analysis, visualization, and analytics tools to build a successful career in this field.
